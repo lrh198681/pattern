@@ -1,6 +1,5 @@
 package com.andy.transparent;
 
-import com.andy.safe.IComponent;
 
 public abstract class AComponent {
 	
