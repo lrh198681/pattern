@@ -1,6 +1,6 @@
 package com.andy.ClassAdaptor;
 
-public interface Car {
+public interface ICar {
 
 	void engine();
 }

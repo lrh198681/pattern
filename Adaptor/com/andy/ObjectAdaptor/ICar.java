@@ -1,6 +1,6 @@
 package com.andy.ObjectAdaptor;
 
-public interface Car {
+public interface ICar {
 
 	void engine();
 }
